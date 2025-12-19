@@ -1,0 +1,12 @@
+---
+:id: 363640789
+:submitters:
+- :name: Joseph Hsu
+  :email: jsheon@seas.upenn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-10-29 02:32:42.010122000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-10-28 19:32:42.010122000 Z
+:status: processed
+:score: 78.0
